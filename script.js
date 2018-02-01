@@ -38,4 +38,5 @@ recognition.addEventListener('error', (e) => {
   outputBot.textContent = 'Error: ' + e.error;
 });
 
+/*ADD THE SPEECH RECOGNITION PART HERE*/
 
