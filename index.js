@@ -1,6 +1,6 @@
 'use strict';
 
-require('dotenv').config()
+//require('dotenv').config()
 const APIAI_TOKEN = "510179e7ff9e4930bb931a4331b6969d";
 const APIAI_SESSION_ID = "asdfghqwer76";
 
